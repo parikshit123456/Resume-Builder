@@ -4,10 +4,6 @@ ResumeForge is a modern Full Stack Resume Builder that helps students and job se
 
 Users can enter their information, preview their resume in real-time, choose from multiple templates, and download their resume as a PDF.
 
-## 📸 Project Preview
-
-<img width="100%" alt="ResumeForge Preview" src="#">
-
 ## ✨ Features
 
 ### 👤 Resume Creation
